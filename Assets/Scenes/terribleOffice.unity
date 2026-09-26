@@ -16680,18 +16680,18 @@ MonoBehaviour:
     - File all files in their
     correct drawers
 
-    - Throw the trash in the bin
+    - Throw the bottles and the cans in the bin
 
-    - Pour yourself a full
-    cup of coffee
+    - Pour
+    yourself a full cup of coffee
 
     - Wipe your desk clean with the sponge
 
 
 
-    You can start
-    completing the tasks once you click the start button, once all tasks are completed,
-    press the quit button.'
+    You
+    can start completing the tasks once you click the start button, once all tasks
+    are completed, press the quit button.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f675742eaf9c20a4f909d78ee7a14fed, type: 2}
   m_sharedMaterial: {fileID: 4687939059374929122, guid: f675742eaf9c20a4f909d78ee7a14fed, type: 2}
