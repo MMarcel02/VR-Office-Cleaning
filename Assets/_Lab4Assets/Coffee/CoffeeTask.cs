@@ -25,6 +25,11 @@ public class CoffeeTask : MonoBehaviour
     public float requiredSeconds = 0.3f;    // time hitting cup to complete
     public bool IsComplete { get; private set; }
 
+    [Header("Cup Models")]
+    public GameObject Licensed_PW_cup01;
+    public GameObject PW_cup01_type2;
+
+
     // State
     float pouringSeconds;
     bool pouring;
@@ -59,6 +64,9 @@ public class CoffeeTask : MonoBehaviour
                 IsComplete = true;
                 SetParticles(false);
                 Debug.Log("Coffee task COMPLETE");
+
+                Licensed_PW_cup01.SetActive(false);
+                PW_cup01_type2.SetActive(true);
             }
         }
         else
