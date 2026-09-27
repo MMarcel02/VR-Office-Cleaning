@@ -1,7 +1,7 @@
 using UnityEngine;
 
 // DO NOT CHANGE THIS FILE NOR ITS SETTINGS
-public enum FileType { None, Green, LightGreen }
+public enum FileType { None, Blue, LightGreen }
 
 public class FileItem : MonoBehaviour
 {   

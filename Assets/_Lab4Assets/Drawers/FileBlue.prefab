@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 3154766802478702141}
   - component: {fileID: 2280076364067036420}
   m_Layer: 0
-  m_Name: FileGreen
+  m_Name: FileBlue
   m_TagString: Snappable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
