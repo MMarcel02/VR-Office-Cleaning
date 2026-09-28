@@ -8,7 +8,7 @@ public class DrawerTask : MonoBehaviour
     [Header(" DO NOT CHANGE ANY PARAMETERS HERE ")]
     [Header("Setup")]
     public string taskName = "Drawers";
-    public FileType expectedType = FileType.Green;
+    public FileType expectedType = FileType.Blue;
     public XRSocketInteractor[] sockets; // drag from inspector
     public int requiredCount = 4; // should normally be equal to sockets.Length
 
